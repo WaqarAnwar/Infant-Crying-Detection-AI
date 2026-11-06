@@ -73,8 +73,8 @@ A machine learning system that listens to audio in real time, detects whether a 
 ## 📁 Project Structure
 
 ```
-├── main.ipynb   # Main notebook
-├── dataset.csv                             # Generated features dataset
+├── main.ipynb                                         # Main notebook
+├── FeaturesDatasetAllSources.csv                      # Generated features dataset
 └── README.md
 ```
 
