@@ -73,7 +73,7 @@ A machine learning system that listens to audio in real time, detects whether a 
 ## 📁 Project Structure
 
 ```
-├── FinalFeaturesLogisticRegression.ipynb   # Main notebook
+├── main.ipynb   # Main notebook
 ├── dataset.csv                             # Generated features dataset
 └── README.md
 ```
