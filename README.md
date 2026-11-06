@@ -82,4 +82,4 @@ A machine learning system that listens to audio in real time, detects whether a 
 
 ## 🎓 About
 
-Developed as a **Final Year Project Module**: An AI-powered smart baby monitor that combines audio signal processing, machine learning and IoT/cloud connectivity.
+Developed as a **Final Year Project Module** (back in 2021): An AI-powered smart baby monitor that combines audio signal processing, machine learning and IoT/cloud connectivity.
